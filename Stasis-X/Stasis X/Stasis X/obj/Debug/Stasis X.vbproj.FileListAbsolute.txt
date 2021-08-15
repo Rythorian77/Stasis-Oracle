@@ -1,0 +1,40 @@
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\bin\Debug\Stasis X.exe.config
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\bin\Debug\Stasis X.exe.manifest
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\bin\Debug\Stasis X.application
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\bin\Debug\Stasis X.exe
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\bin\Debug\Stasis X.pdb
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\bin\Debug\Stasis X.xml
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis X.vbprojAssemblyReference.cache
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Interop.SHDocVw.dll
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Interop.WMPLib.dll
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis X.vbproj.ResolveComReference.cache
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis_X.Static_X.resources
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis_X.Resources.resources
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis X.vbproj.GenerateResource.cache
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis X.vbproj.CoreCompileInputs.cache
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis X.TrustInfo.xml
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis X.exe.manifest
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis X.application
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis X.exe
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis X.xml
+C:\Users\justin.ross\source\repos\Stasis X\Stasis X\obj\Debug\Stasis X.pdb
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\bin\Debug\Stasis X.exe.config
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\bin\Debug\Stasis X.exe.manifest
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\bin\Debug\Stasis X.application
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\bin\Debug\Stasis X.exe
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\bin\Debug\Stasis X.pdb
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\bin\Debug\Stasis X.xml
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Interop.SHDocVw.dll
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Interop.WMPLib.dll
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis X.vbproj.ResolveComReference.cache
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis_X.Static_X.resources
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis_X.Resources.resources
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis X.vbproj.GenerateResource.cache
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis X.vbproj.CoreCompileInputs.cache
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis X.TrustInfo.xml
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis X.exe.manifest
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis X.application
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis X.exe
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis X.xml
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis X.pdb
+C:\Users\justin.ross\Source\Repos\Stasis-X\Stasis X\Stasis X\obj\Debug\Stasis X.vbproj.AssemblyReference.cache
